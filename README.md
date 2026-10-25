@@ -5,7 +5,7 @@ My goal is to build strong a foundation in Linux and cybersecurity through pract
 
 ## Linux Fundamentals 🐧
 
-### OverTheWire Bandit 
+## OverTheWire Bandit 
 
 **Level** of wargame designed to teach command line operation, SSH auth, File permissions and basic cybersecurity concepts.
 
